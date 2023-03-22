@@ -1,0 +1,3 @@
+[22.03.2023 23:54:31] Development QA Engineer (Intern) position verification test. Expected result: false. Test result: false
+[22.03.2023 23:58:56] Development QA Engineer (Intern) position verification test. Expected result: false. Test result: false
+[23.03.2023 00:01:17] Development QA Engineer (Intern) position verification test. Expected result: false. Test result: false
